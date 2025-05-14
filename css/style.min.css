@@ -9697,6 +9697,7 @@ input[type=number] {
 
 .categories-applied {
   display: flex;
+  display: none;
   align-items: center;
   border-radius: 12px;
   background-color: #ebfaf0;
